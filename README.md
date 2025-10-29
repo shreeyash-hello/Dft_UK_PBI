@@ -117,11 +117,11 @@ Dive deeper into specific body types (e.g., cars, vans, motorcycles) and their d
 ---
 
 ## 📈 Key Takeaways
-- Total UK vehicles: **42.26 million (as of 2025 Q2)**  
-- **Cars** remain dominant, but **light goods vehicles** are growing fastest.  
-- **South East England** and **North West** regions lead in total counts and growth.  
-- **London**’s slower growth reflects the shift toward public transport and low-emission zones.  
-- Insights can directly inform **road planning**, and **budget allocation**.
+- The UK has **42.26 million licensed vehicles** as of Q2 2025.  
+- Dataset covers **578 records across 12 regions and 5 body types** (1994–2025).  
+- **Cars** dominate with ~83% share; **Light Goods Vehicles (LGVs)** show fastest growth (+22% since 2015).  
+- **South East England** leads with 9.6M vehicles (~23% of the UK total).  
+- Overall vehicle stock has grown **15% since 2010**.
 
 ---
 
