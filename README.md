@@ -60,7 +60,7 @@ Provide a national-level snapshot of total licensed vehicles and composition by 
 - **KPI Card:** Displays total licensed vehicles in the UK (42.26 million as of Q2 2025)
 - **Bar Chart:** Shows vehicle count by country (England, Scotland, Wales, Northern Ireland)
 - **Donut Chart:** Displays the composition of vehicle types (Cars, Vans, Motorcycles, etc.)
-- **Slicers:** For `BodyType` and `Date` to adjust focus dynamically
+- **Slicers:** For `BodyType` to adjust focus dynamically
 
 **Insights:**
 - The UK has **42.26 million licensed vehicles**, with **England** holding the majority share.  
