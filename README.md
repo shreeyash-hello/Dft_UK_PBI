@@ -17,7 +17,7 @@ This dashboard enables stakeholders to:
 ---
 
 ## 🧾 Data Source
-- **Dataset:** [DfT VEH1104 — Licensed vehicles by body type and region]([https://www.gov.uk/government/statistical-data-sets/veh01-vehicles-registered-for-the-first-time](https://assets.publishing.service.gov.uk/media/68ecf5a5e7b6794c076bbd75/veh1104.ods))
+- **Dataset:** [DfT VEH1104 — Licensed vehicles by body type and region](https://www.gov.uk/government/statistical-data-sets/veh01-vehicles-registered-for-the-first-time)
 - **Publisher:** UK Department for Transport (DfT)
 - **Time Period:** 1994–2025 (Quarterly updates)
 
